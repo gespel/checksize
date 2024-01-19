@@ -1,3 +1,4 @@
+checksize.py
 setup.py
 checksize.egg-info/PKG-INFO
 checksize.egg-info/SOURCES.txt
